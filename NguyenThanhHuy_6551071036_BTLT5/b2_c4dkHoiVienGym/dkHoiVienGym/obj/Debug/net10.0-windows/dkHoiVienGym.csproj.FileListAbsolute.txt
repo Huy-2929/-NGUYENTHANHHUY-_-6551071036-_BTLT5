@@ -1,0 +1,17 @@
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\bin\Debug\net10.0-windows\dkHoiVienGym.exe
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\bin\Debug\net10.0-windows\dkHoiVienGym.deps.json
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\bin\Debug\net10.0-windows\dkHoiVienGym.runtimeconfig.json
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\bin\Debug\net10.0-windows\dkHoiVienGym.dll
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\bin\Debug\net10.0-windows\dkHoiVienGym.pdb
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.Form1.resources
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.csproj.GenerateResource.cache
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.AssemblyInfoInputs.cache
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.AssemblyInfo.cs
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.csproj.CoreCompileInputs.cache
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.dll
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\refint\dkHoiVienGym.dll
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.pdb
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVienGym.genruntimeconfig.cache
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\ref\dkHoiVienGym.dll
+D:\laptrinhtrucquan\dkHoiVienGym\dkHoiVienGym\obj\Debug\net10.0-windows\dkHoiVie.A1651F39.Up2Date
